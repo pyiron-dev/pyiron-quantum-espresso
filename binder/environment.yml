@@ -5,3 +5,4 @@ dependencies:
 - pyiron
 - ase
 - qe
+- pslibrary
