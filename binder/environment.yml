@@ -7,4 +7,4 @@ dependencies:
 - qe
 - pslibrary
 - pip:
-  - git+https://github.com/pyiron/pyiron_contrib.git@quantumespresso
+  - git+https://github.com/pyiron/pyiron_contrib.git@qe
