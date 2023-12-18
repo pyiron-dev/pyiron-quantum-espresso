@@ -1,10 +1,7 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron_atomistics
-- pyiron_contrib
-- ase
+- pyiron_base
 - qe
-- pslibrary
-- pip:
-  - git+https://github.com/pyiron/pyiron_contrib.git@qe
+- sssp
+- pwtools
